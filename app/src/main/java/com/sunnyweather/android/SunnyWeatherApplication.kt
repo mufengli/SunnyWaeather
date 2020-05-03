@@ -7,7 +7,7 @@ class SunnyWeatherApplication : Application() {
 
     companion object{
         lateinit var context: Context
-        const val token="BNBRvBveaD2VfHVI"
+        const val token="u45WqFW215VBO0N2"
     }
 
     override fun onCreate() {
